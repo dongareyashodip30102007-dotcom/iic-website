@@ -37,7 +37,7 @@ export default function Home() {
               YD
             </div>
             <h2 className="text-sm font-bold text-[#3b5998] hover:underline cursor-pointer">
-              Yashodip D.
+              Annoymous
             </h2>
             <p className="text-[11px] text-gray-500 mt-1 border-t border-[#dddfe2] pt-2">
               Frontend Developer<br/>
@@ -130,7 +130,7 @@ export default function Home() {
         </div>
         <div className="text-right">
           Designed & Engineered by <br/>
-          <strong className="text-[#3b5998]"> I guess you will never know</strong>
+          <strong className="text-[#3b5998]">u will never know</strong>
         </div>
       </footer>
 
